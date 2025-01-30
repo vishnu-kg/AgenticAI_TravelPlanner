@@ -10,6 +10,10 @@ This project is an **AI-powered travel planner** web application built using **S
 Here is a screenshot showing the app's result in action:
 ![alt text](image.png)
 
+
+
+![alt text](image-1.png)
+
 ## 
 
 
