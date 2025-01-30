@@ -5,7 +5,14 @@ This project is an **AI-powered travel planner** web application built using **S
 
 ## Demo
 
+**Live Demo**: [Click here to try the app](https://huggingface.co/spaces/vishnukg/travelApp)
+
 Here is a screenshot showing the app's result in action:
+![alt text](image.png)
+
+## 
+
+
 
 
 
@@ -36,3 +43,8 @@ python3 -m venv venv
 venv\Scripts\activate  # for Windows
 
 pip install -r requirements.txt
+
+
+
+streamlit run main.py
+
